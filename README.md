@@ -20,23 +20,20 @@
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![Libsodium](https://img.shields.io/badge/Libsodium-00599C?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-C4302B?style=for-the-badge&logo=rust&logoColor=white)
 ![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-2E86C1?style=for-the-badge)
-![SHA256](https://img.shields.io/badge/SHA256-6E6E6E?style=for-the-badge)
 ![ERC-721](https://img.shields.io/badge/ERC--721-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![ERC-1155](https://img.shields.io/badge/ERC--1155-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Pinata](https://img.shields.io/badge/Pinata-FE5D26?style=for-the-badge&logo=pinata&logoColor=white)
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-![Metaplex](https://img.shields.io/badge/Metaplex-6528F7?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![TradingView API](https://img.shields.io/badge/TradingView-2294D1?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Binance API](https://img.shields.io/badge/Binance%20API-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
-![CCXT](https://img.shields.io/badge/CCXT-006E90?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 ---
