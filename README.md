@@ -22,8 +22,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-2E86C1?style=for-the-badge)
 ![ERC-721](https://img.shields.io/badge/ERC--721-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![TradingView API](https://img.shields.io/badge/TradingView-2294D1?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
