@@ -1,6 +1,8 @@
 # Hey, I'm Renee Matthew
 
-🚀 Blockchain Developer | 🛠️ Full Stack Web3 Builder | 🧠 AI x Crypto Innovator
+🚀 Blockchain Developer
+🛠️ Full Stack Web3 Builder
+🧠 AI x Crypto Innovator
 
 ---
 
