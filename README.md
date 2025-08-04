@@ -9,6 +9,8 @@
 I'm a Computer Science Engineering student, Blockchain and Web3 Developer. I build secure and scalable decentralized applications using Solidity, smart contracts, liquidity. . I design dApps that interact seamlessly with on-chain and off-chain data. Passionate about leveraging blockchain to solve real-world problems, I constantly push the boundaries of innovation in DeFi, identity, and tokenized systems.
 
 🧪 Exploring DeFi, Solidity, Cryptography
+
+
 🏗️ BUilding [Brikx](https://brikx-app.lovable.app/), a blockchain-based real estate platform
 
 
