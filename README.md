@@ -7,7 +7,7 @@
 ## 🧾 About Me
 
 - 🔗 Passionate about building decentralized applications
-- 🏗️ Founder of [Brikx](https://brikx-app.lovable.app/), a blockchain-based real estate platform
+- 🏗️ BUilding [Brikx](https://brikx-app.lovable.app/), a blockchain-based real estate platform
 - 🤝 Active contributor to Web3 hackathons
 - 🧪 Exploring DeFi, Solidity, Cryptography
 
