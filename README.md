@@ -59,7 +59,7 @@ Blockchain based password - vault, that can only open when crypto wallets or blo
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/renee-matthew-673141263/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renee-matthew-673141263/))
 [![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/mannyXcoin))
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
