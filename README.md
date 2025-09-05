@@ -15,10 +15,10 @@
 
 ## 🏆 Hackathons & Highlights
 
-🥇 Bitcoin Global Hackathon — Top Presenter
+🥇 Bitcoin Global Hackathon — Top 4 recognised
 💡 Presented BitLend, a decentralized crypto lending platform enabling real-time wallet-based lending logic and on-chain credit control.
 
-🏅 IIT Blockchain Hackathon — Top Selected Team
+🏅 IIT Blockchain Hackathon — Top 10 Finalist
 🚀 Built a blockchain-based real estate tokenization project (Brikx) that impressed judges for its regulatory design, usability, and smart contract modularity.
 
 BNB Hackthon top shortlisted teams
