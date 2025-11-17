@@ -7,13 +7,15 @@
 ## 🧾 About Me
 
 - 🔗 Passionate about building decentralized applications
-- 🏗️ Founder of [Brikx](https://brikx-app.lovable.app/), a blockchain-based real estate platform
+- 🏗️ Building [HAVN]. The first multi-wallet crypto app
 - 🤝 Active contributor to Web3 hackathons
 - 🧪 Exploring DeFi, ZK Proofs, AI Agents in Web3
 
 ---
 
 ## 🏆 Hackathons & Highlights
+
+🥇 BNB Bombay Hackathon - best use of Greenfield winner
 
 🥇 Bitcoin Global Hackathon — Top 4 recognised
 💡 Presented BitLend, a decentralized crypto lending platform enabling real-time wallet-based lending logic and on-chain credit control.
