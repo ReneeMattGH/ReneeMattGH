@@ -61,5 +61,9 @@ NFT-based certification engines
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renee-matthew-673141263/)
-[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/mannyXcoin)
+[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/0xmattchain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://mattfolio.vercel.app/)
+
+## CHECK OUT HAVXWallet
+[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/havxwallet)
+
