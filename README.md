@@ -7,7 +7,7 @@
 ## 🧾 About Me
 
 - 🔗 Passionate about building decentralized applications
-- 🏗️ Building [HAVN]. The first multi-wallet crypto app
+- 🏗️ Building [HAVX]. The first multi-wallet crypto app to discover you're portfolio with ai analytics.
 - 🤝 Active contributor to Web3 hackathons
 - 🧪 Exploring DeFi, ZK Proofs, AI Agents in Web3
 
