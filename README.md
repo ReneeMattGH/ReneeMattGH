@@ -16,8 +16,8 @@
 ## 🏆 Hackathons & Highlights
 
 🥇 BNB Bombay Hackathon - best use of Greenfield winner
-
-🥇 Bitcoin Global Hackathon — Top 4 recognised
+🎖️ GDG - developer Hackathon Top 8
+🥇 Bitcoin Global Hackathon — Top 4 in global results
 💡 Presented BitLend, a decentralized crypto lending platform enabling real-time wallet-based lending logic and on-chain credit control.
 
 🏅 IIT Blockchain Hackathon — Top 10 Finalist
