@@ -17,9 +17,9 @@
 
 🥇 Bitcoin Global Hackathon — Top 4 in global results
 🥇 BNB Bombay Hackathon - best use of Greenfield winner
+🥉 Ideathon - 2nd runner up - BRIKX - RWA Tokenization
 🎖️ GDG - developer Hackathon Top 8
 🥈 BeachHack Season 7 - Best Idea Implementation winner
-🥉 Ideathon - 2nd runner up - BRIKX
 💡 Presented BitLend, a decentralized crypto lending platform enabling real-time wallet-based lending logic and on-chain credit control.
 🏅 IIT Blockchain Hackathon — Top 10 Finalist
 🚀 Built a blockchain-based real estate tokenization project (Brikx) that impressed judges for its regulatory design, usability, and smart contract modularity.
