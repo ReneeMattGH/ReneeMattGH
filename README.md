@@ -15,21 +15,23 @@
 
 ## 🏆 Hackathons & Highlights
 
-🥇 Bitcoin Global Hackathon — Top 4 in global results
-🥇 BNB Bombay Hackathon - best use of Greenfield winner
-🥉 Ideathon - 2nd runner up - BRIKX - RWA Tokenization
-🎖️ GDG - developer Hackathon Top 8
-🥈 BeachHack Season 7 - Best Idea Implementation winner
-💡 Presented BitLend, a decentralized crypto lending platform enabling real-time wallet-based lending logic and on-chain credit control.
-🏅 IIT Blockchain Hackathon — Top 10 Finalist
-🚀 Built a blockchain-based real estate tokenization project (Brikx) that impressed judges for its regulatory design, usability, and smart contract modularity.
-🧠 Web3 & Technical Showcases
-⚙️ Multiple selections and finalist positions across national and college-level hackathons for:
+### 🥇 Major Hackathon Achievements
+- **Bitcoin Global Hackathon** — Top 4 globally 🌎  
+- **BNB Bombay Hackathon** — Best Use of Greenfield 🏆  
+- **Ideathon** — 2nd Runner Up for **BRIKX (RWA Tokenization)** 🥉  
+- **GDG Developer Hackathon** — Top 8 Finalist 🎖️  
+- **BeachHack Season 7** — Best Idea Implementation 🥈  
+  💡 Presented **BitLend**, a decentralized crypto lending platform enabling real-time wallet-based lending and on-chain credit control.  
+- **IIT Blockchain Hackathon** — Top 10 Finalist 🚀  
+  🏗️ Built **Brikx**, a blockchain-based real estate tokenization project praised for regulatory compliance, usability, and smart contract modularity.
 
-Crypto trading bots with custom ATR & EMA-based strategies
-Health data systems on blockchain for secure, verifiable records
-ZK-proof voting prototypes
-NFT-based certification engines
+### 🧠 Web3 & Technical Showcases
+- Multiple national & college-level hackathon selections and finalist positions for:  
+  - Crypto trading bots with **custom ATR & EMA-based strategies** 📈  
+  - Health data systems on blockchain for **secure, verifiable records** 🏥  
+  - **ZK-proof voting prototypes** 🔒  
+  - **NFT-based certification engines** 🎨
+
 
 ---
 
