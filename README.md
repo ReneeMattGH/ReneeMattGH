@@ -7,7 +7,7 @@
 ## 🧾 About Me
 
 - 🔗 Passionate about building decentralized applications
-- 🏗️ Building [HAVX]. The first multi-wallet crypto app to discover you're portfolio with ai analytics.
+- 🏗️ Building [HAVX]. The first ever complete Blockchain based IDE - raise $8k+ on level 1 funding
 - 🤝 Active contributor to Web3 hackathons
 - 🧪 Exploring DeFi, ZK Proofs, AI Agents in Web3
 
