@@ -16,7 +16,9 @@
 ## 🏆 Hackathons & Highlights
 
 ### 🥇 Major Hackathon Achievements
-- **Bitcoin Global Hackathon** — Top 4 globally 🌎  
+- **Bitcoin Global Hackathon** — Top 4 globally 🌎
+- **Solana Solar Hackathon - 2nd Runner up
+- **Solana Colosseum Global Hackathon - 2nd Runner up
 - **BNB Bombay Hackathon** — Best Use of Greenfield 🏆  
 - **Ideathon** — 2nd Runner Up for **BRIKX (RWA Tokenization)** 🥉  
 - **GDG Developer Hackathon** — Top 8 Finalist 🎖️  
